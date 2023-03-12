@@ -1,1 +1,1 @@
-# Real-Estate-Price-Prediction-ML-project
+# REAL ESTATE PRICE PREDICTION - Machine Learning
