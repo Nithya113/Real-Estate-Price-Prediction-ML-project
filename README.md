@@ -7,11 +7,11 @@ It solves by undergoing various algorithms with an accuracy of 85.79 %.
 
 # Technologies
 ### Python 
-## Flask 
-## Scikit-learn  
-## Matplotlib 
-## NumPy 
-## Pandas 
-## JavaScript 
-## CSS 
-## HTML
+### Flask 
+### Scikit-learn  
+### Matplotlib 
+### NumPy 
+### Pandas 
+### JavaScript 
+### CSS 
+### HTML
