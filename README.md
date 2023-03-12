@@ -6,4 +6,12 @@ It solves by undergoing various algorithms with an accuracy of 85.79 %.
 # Datasets- [Kaggle](https://www.kaggle.com/code/ameythakur20/bangalore-house-price-prediction-model)
 
 # Technologies
-## Python ## Flask ## Scikit-learn  ## Matplotlib ## NumPy ## Pandas ## JavaScript ## CSS ## HTML
+## Python 
+## Flask 
+## Scikit-learn  
+## Matplotlib 
+## NumPy 
+## Pandas 
+## JavaScript 
+## CSS 
+## HTML
